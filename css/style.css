@@ -1,0 +1,76 @@
+body{
+
+background-color: #EAE8E7;
+
+margin-top: 20px;
+
+font-family: 'Roboto', sans-serif;
+
+font-size: 14px;
+
+color: #706E6B;
+}
+.title-head{
+  text-align: center;
+}
+span{
+  color:#43d0c3;
+}
+.mid-content{
+
+max-width: 1289px;
+}
+.left-content{
+    float: left;
+    width: 420px;
+    background-color: #673AB7;
+    margin-bottom: 30px;
+    color: white;
+    box-shadow: 1px 3px 5px #827878c4;
+}
+.left-content{
+
+}
+.left-buttom{
+
+padding: 21px;
+
+text-align: center;
+}
+.left-content img{
+
+width: 420px;
+}
+.left-fw{
+
+font-size: 25px;
+}
+.left-pargp p{
+
+padding-right: 10px;
+}
+
+.right-content{
+    float: right;
+    width: 64%;
+    padding: 30px;
+    margin-right: 5px;
+    margin-bottom: 24px;
+    background-color: white;
+    box-shadow: 1px 3px 5px #827878c4;
+}
+.right-buttom{float: right;width: 64%;padding: 30px;margin-right: 5px;margin-bottom: 24px;background-color: white;box-shadow: 1px 3px 5px #827878c4;}
+.Refarances-icon{
+
+font-size: 30pt;
+
+text-align: center;
+}
+.Refarances span{
+
+color: #5c00fff5;
+
+font-weight: bold;
+
+font-size: 13px;
+}
